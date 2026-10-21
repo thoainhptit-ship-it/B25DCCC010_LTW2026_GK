@@ -13,3 +13,5 @@ tbody tr:hover { background: #f0f4ff; }
 form div { margin-bottom: 8px; }
 label { margin-right: 8px; }
 button { margin-right: 6px; }
+.navbar a { margin-right: 16px; text-decoration: none; color: #333; }
+.navbar a.active { color: red; font-weight: bold; }
